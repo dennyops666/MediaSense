@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS mediasense
   DEFAULT CHARACTER SET utf8mb4
   DEFAULT COLLATE utf8mb4_unicode_ci;
 
-USE news_db;
+USE mediasense;
 
 -- 用户表 user_info
 CREATE TABLE IF NOT EXISTS user_info (
